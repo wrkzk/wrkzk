@@ -1,6 +1,6 @@
 ## Hello
 
-![Codewars Rank](https://www.codewars.com/users/wrkzk/badges/large)
+![Codewars Rank](https://www.codewars.com/users/wrkzk/badges/small)
 
 <!--
 **wrkzk/wrkzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
