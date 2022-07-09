@@ -1,6 +1,7 @@
 ## Hello
 
 ![Codewars Rank](https://www.codewars.com/users/wrkzk/badges/small)
+---
 sup
 
 <!--
