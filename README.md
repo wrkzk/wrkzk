@@ -2,7 +2,6 @@
 
 ![Codewars Rank](https://www.codewars.com/users/wrkzk/badges/small)
 ---
-sup why r u here
 
 <!--
 **wrkzk/wrkzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
