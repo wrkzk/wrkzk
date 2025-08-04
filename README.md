@@ -1,23 +1,31 @@
 ~~~
-           .          .           .     .                .       .          .
-  .      .      *           .       .          .                       .
-                 .       .   . *              .       *   .      .    .    .
-  .       ____     .      . .            .            .      *
-         >>         .        .               .                            .
- .   .  /WWWI; \  .       .    .  ____               .         .     .         
-  *    /WWWWII; \=====;    .     /WI; \   *    .        /\_             .
-  .   /WWWWWII;..      \_  . ___/WI;:. \     .        _/M; \    .   .         .
-     /WWWWWIIIIi;..      \__/WWWIIII:.. \____ .   .  /MMI:  \   * .
- . _/WWWWWIIIi;;;:...:   ;\WWWWWWIIIII;.     \     /MMWII;   \    .  .     .
-  /WWWWWIWIiii;;;.:.. :   ;\WWWWWIII;;;::     \___/MMWIIII;   \              .
- /WWWWWIIIIiii;;::.... :   ;|WWWWWWII;;::.:      :;IMWIIIII;:   \___     *
-/WWWWWWWWWIIIIIWIIii;;::;..;\WWWWWWIII;;;:::...    ;IMIII;;     ::  \     .
-WWWWWWWWWIIIIIIIIIii;;::.;..;\WWWWWWWWIIIII;;..  :;IMIII;:::     :    \   
-WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXX
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXX
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXX
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXX
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXX
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
+                  ,         
+                 -o-
+                  ' ; .
+                      . ;   
+                          .    
+                       +   ;;  |
+                        .    -;O--
+                               |J;
+            |                    ;J;* 
+            |   ...    ....      *;J; 
+        ----O;-l-lJJJJJJJJJJ;     ;;J;'
+           ;|JJ;;''''` ;JJJ;       ;J;*
+       * ;JJ|':     ..;JJJ;         ;J;
+        ;J;':      ;;WWWJJ;       + ;J;
+       ;J;:      ;WWWWWWWJJ;;     '';J; *               
+       ;J;  *  ;JWWWWWWWWWWWJ;   ';;J;
+      ;J;:      ;JWWWWWWWWWJ;    * ;J;
+      ;J;*      .';JWWWJ;;''    :;;J;
+      ;J;       .;JJJ.'..     .:;JJ;
+       ;J;+     ;JJJ..*.*.....JJJ;                       ,,
+       ;J;      JJJJJJJJJJJlll;;              -  - - - = =#>=O=O>
+        ;J;*     ''''''''          *                     ''
+       * ;J;|
+            J|                                   
+         ----O-;--
+             |   ;
+             |     .
+                +  *
+                     ;
 ~~~
